@@ -10,8 +10,8 @@ pygame.init()
 pygame.mixer.init()
 
 # Configurações do jogo
-LARGURA = 1280
-ALTURA = 720
+LARGURA = 720
+ALTURA = 1650
 TELA = pygame.display.set_mode((LARGURA, ALTURA))
 pygame.display.set_caption("Cosmic Defender Pro")
 
